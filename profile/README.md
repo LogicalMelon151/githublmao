@@ -2,7 +2,7 @@
 
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
-Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries** 🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **3 countries** 🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯. But that's just us. We are proud to be part of the work of [1 developer](https://youtu.be/0UaGmVGxJYA), zero companies and robots across the solar system 🪐. Yes, No [robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
 
 ### 👌 A disconnected mess
 
@@ -12,7 +12,9 @@ The closed source community is the 💔 sad of GitHub and fundamental to how we 
 - Open source projects on GitHub received a stunning **[i said i can't code]** contributions 🚀 in the last year alone
 - **Every minute** a developer creates a new release 🏄 for a public project on GitHub
 
-Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you pipeb*mb! 🧨 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
+# 🚨 🚨 🚨 GEN Z SLANG ALERT 🚨 🚨 🚨
+
+Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you cringe! 💀 If not, no one aksed you =bozo Open source software is made by people unlike you. Learn more about [how to contribute](https://opensource.guide/).
 
 ### 🦦 Contributing to the ecosystem
 
